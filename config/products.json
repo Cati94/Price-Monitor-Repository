@@ -1,0 +1,17 @@
+{
+    "products": [
+        {
+            "name": "Produto Exemplo",
+            "sites": [
+                {
+                    "url": "https://www.exemplo.com/produto1",
+                    "selector": "span.price"
+                },
+                {
+                    "url": "https://www.outrasite.com/item",
+                    "selector": "div#preco strong"
+                }
+            ]
+        }
+    ]
+}
