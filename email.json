@@ -1,7 +1,0 @@
-{
-    "sender": "teu_email@gmail.com",
-    "password": "PALAVRA-PASSE-APP",
-    "receiver": "destinatario@gmail.com",
-    "smtp": "smtp.gmail.com",
-    "port": 587
-}
