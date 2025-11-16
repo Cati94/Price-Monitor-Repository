@@ -1,0 +1,5 @@
+selenium==4.16.0
+webdriver-manager==4.2.2
+beautifulsoup4==4.12.2
+lxml==4.9.3
+yagmail==0.15.259
